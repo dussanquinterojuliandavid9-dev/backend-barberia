@@ -5,7 +5,7 @@
 # Logs
 logs
 *.log
-npm-debug.log*
+npm-debug.log*Microsoft.QuickAction.AirplaneMode
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
